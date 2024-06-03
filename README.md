@@ -1,7 +1,7 @@
 # FacialControllArrows
 
 ## Descrição
-FacialControllArrows é um projeto inovador que permite controlar o cursor do mouse usando os movimentos do nariz, capturados por uma webcam. Utilizando a tecnologia de visão computacional através das bibliotecas OpenCV e MediaPipe, este projeto mapeia os movimentos do nariz e os converte em comandos de controle de cursor, proporcionando uma maneira única e interativa de interagir com sua interface de usuário.
+FacialControllArrows é um que permite controlar o cursor do mouse usando os movimentos do nariz, capturados por uma webcam. Utilizando a tecnologia de visão computacional através das bibliotecas OpenCV e MediaPipe, este projeto mapeia os movimentos do nariz e os converte em comandos de controle de cursor, proporcionando uma maneira única e interativa de interagir com sua interface de usuário.
 
 ## Funcionalidades
 - Detecção em tempo real do movimento do nariz usando a webcam.
